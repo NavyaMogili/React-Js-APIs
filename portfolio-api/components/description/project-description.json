@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_description_project_descriptions",
+  "info": {
+    "name": "project_description",
+    "icon": "apple-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
